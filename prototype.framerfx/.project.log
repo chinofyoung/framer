@@ -1,0 +1,68 @@
+[2019-11-13 17:35:18.1330] - INFO - Reading from /Users/chino/Code/framer/prototype.framerfx (origin); preserving existing contents of project folder: true
+[2019-11-13 17:35:18.1390] - INFO - Done reading
+[2019-11-13 17:35:18.1400] - INFO - Marking changed: false
+[2019-11-13 17:35:18.1420] - INFO - Marking changed: false
+[2019-11-13 17:35:18.1460] - DEBUG - [Save session: 0] Completed super.save
+[2019-11-13 17:35:18.1650] - INFO - Marking changed: false
+[2019-11-13 17:35:18.2750] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2019-11-13 17:35:22.6110] - INFO - Installing dependencies…
+[2019-11-13 17:35:22.6930] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (3ms)
+[2019-11-13 17:35:23.5330] - INFO - Installing dependencies - DONE. Took 922ms
+[2019-11-13 17:35:25.2770] - ERROR - Project might be incompatible with this Framer X version (1.1.5 is not listed as compatible version in "^0.7.11")
+[2019-11-13 17:35:25.2770] - ERROR - Try selecting the Built-In Framer Library king changed: false
+[2019-11-13 17:35:18.1420] - INFO - Marking changed: false
+[2019-11-13 17:35:18.1460] - DEBUG - [Save session: 0] Completed super.save
+[2019-11-13 17:35:18.1650] - INFO - Marking changed: false
+[2019-11-13 17:35:18.2750] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (1ms)
+[2019-11-13 17:35:22.6110] - INFO - Installing dependencies…
+[2019-11-13 17:35:22.6930] - INFO - GET 304 /node_modules/framer/build/framer.debug.js 0 B (3ms)
+[2019-11-13 17:35:23.5330] - INFO - Installing dependencies - DONE. Took 922ms
+[2019-11-13 17:35:25.2770] - ERROR - Project might be incompatible with this Framer X version (1.1.5 is not listed as compatible version in "^0.7.11")
+[2019-11-13 17:35:25.2770] - ERROR - Try selecting the Built-In Framer Library version from the File menu.
+[2019-11-13 17:35:25.7040] - ERROR - yarn check: "@framer/benjamin.slider#framer@^0.10.0 || ^1" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:35:25.7060] - ERROR - yarn check: "@framer/fitilala.accordion#framer@^1.0" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:35:25.7080] - ERROR - yarn check: "@framer/max_steenbergen.accordion#framer@^0.8.1" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:35:25.7670] - ERROR - yarn check: Found 3 errors.
+[2019-11-13 17:35:27.2520] - ERROR - Project might be incompatible with this Framer X version (1.1.5 is not listed as compatible version in "^0.7.11")
+[2019-11-13 17:35:27.2530] - ERROR - Try selecting the Built-In Framer Library version from the File menu.
+[2019-11-13 17:35:27.7120] - ERROR - yarn check: "@framer/benjamin.slider#framer@^0.10.0 || ^1" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:35:27.7150] - ERROR - yarn check: "@framer/fitilala.accordion#framer@^1.0" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:35:27.7180] - ERROR - yarn check: "@framer/max_steenbergen.accordion#framer@^0.8.1" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:35:27.7750] - ERROR - yarn check: Found 3 errors.
+
+[2019-11-13 17:36:57.4580] - INFO - Reading from /Users/chino/Code/framer/prototype.framerfx (origin); preserving existing contents of project folder: true
+[2019-11-13 17:36:57.5350] - INFO - Done reading
+[2019-11-13 17:36:57.5350] - INFO - Marking changed: false
+[2019-11-13 17:36:57.6000] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2019-11-13 17:36:58.9720] - INFO - Project server PID: 26041
+[2019-11-13 17:36:59.2960] - INFO - Installing dependencies…
+[2019-11-13 17:36:59.4320] - INFO - GET 200 /design/document.json 0 B (7ms)
+[2019-11-13 17:36:59.5890] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (5ms)
+[2019-11-13 17:37:01.1050] - ERROR - Wed, 13 Nov 2019 09:37:01 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer X.app/Contents/Resources/Server/lib/server.js:131:17
+[2019-11-13 17:37:02.0110] - INFO - Installing dependencies - DONE. Took 2715ms
+[2019-11-13 17:37:04.1380] - ERROR - Project might be incompatible with this Framer X version (1.1.5 is not listed as compatible version in "^0.7.11")
+[2019-11-13 17:37:04.1380] - ERROR - Try selecting the Built-In Framer Library version from the File menu.
+[2019-11-13 17:37:04.5490] - ERROR - yarn check: "@framer/benjamin.slider#framer@^0.10.0 || ^1" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:37:04.5500] - ERROR - yarn check: "@framer/fitilala.accordion#framer@^1.0" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:37:04.5520] - ERROR - yarn check: "@framer/max_steenbergen.accordion#framer@^0.8.1" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:37:04.5970] - ERROR - yarn check: Found 3 errors.
+[2019-11-13 17:37:06.5920] - ERROR - Project might be incompatible with this Framer X version (1.1.5 is not listed as compatible version in "^0.7.11")
+[2019-11-13 17:37:06.5920] - ERROR - Try selecting the Built-In Framer Library version from the File menu.
+[2019-11-13 17:37:07.0250] - ERROR - yarn check: "@framer/benjamin.slider#framer@^0.10.0 || ^1" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:37:07.0270] - ERROR - yarn check: "@framer/fitilala.accordion#framer@^1.0" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:37:07.0300] - ERROR - yarn check: "@framer/max_steenbergen.accordion#framer@^0.8.1" doesn't satisfy found match of "framer@0.7.13"
+[2019-11-13 17:37:07.0850] - ERROR - yarn check: Found 3 errors.
+[2019-11-13 17:37:14.5230] - DEBUG - [Save session: 0] Started, operation: saveOperation
+[2019-11-13 17:37:14.5230] - DEBUG - [Save session: 0] Before container.writeChanges
+[2019-11-13 17:37:14.5230] - DEBUG - [Save session: 0] Before waitUsingRecursiveRunLoop
+[2019-11-13 17:37:14.5470] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2019-11-13 17:37:14.5470] - DEBUG - [Save session: 0] Completed waitUsingRecursiveRunLoop
+[2019-11-13 17:37:14.5500] - INFO - Marking changed: false
+[2019-11-13 17:37:14.5520] - DEBUG - [Save session: 0] Completed super.save
+[2019-11-13 17:37:18.3110] - INFO - GET 304 /node_modules/@framer/fitilala.accordion/metadata/icon.png 0 B (2ms)
+[2019-11-13 17:37:18.3110] - INFO - GET 304 /node_modules/@framer/max_steenbergen.accordion/metadata/icon.png 0 B (2ms)
+[2019-11-13 17:37:18.3120] - INFO - GET 304 /node_modules/@framer/benjamin.slider/metadata/icon.png 0 B (2ms)
+[2019-11-13 17:37:23.2370] - ERROR - Wed, 13 Nov 2019 09:37:22 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer X.app/Contents/Resources/Server/lib/middleware.js:76:13
+[2019-11-13 17:37:44.8070] - INFO - GET 200 /metadata/icon.png?1573637864734 1.85 kB (1ms)
+[2019-11-13 17:37:44.8250] - INFO - GET 304 /metadata/icon.png?1573637864734 0 B (1ms)
+[2019-11-13 17:37:58.1520] - INFO - Backing up to /Users/chino/Code/framer/prototype.framerfx/.backups/2019-11-13 17.37.58.zip
